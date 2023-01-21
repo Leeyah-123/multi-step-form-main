@@ -429,13 +429,16 @@ ul {
   margin-left: auto;
 }
 
-.plan__text > h3 {
+.plan__text > span:first-of-type {
+  display: block;
   color: var(--clr-marine-blue);
   font-weight: 500;
   font-size: 1.3em;
 }
 
-.plan__text > p {
+.plan__text > span:nth-of-type(2) {
+  display: block;
+  margin-top: 0.2em;
   color: var(--clr-cool-gray);
   font-weight: 400;
 }
