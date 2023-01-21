@@ -197,7 +197,8 @@ ul {
   position: relative;
 }
 
-.personal-info-form > label > p {
+.personal-info-form > label > span:first-of-type {
+  display: block;
   color: var(--clr-marine-blue);
   font-size: 1em;
   font-weight: 400;
@@ -352,7 +353,7 @@ ul {
 }
 
 .duration-switch-btn[data-selected='yearly'] > .knob {
-  transform: translateX(calc(100% + 1px));
+  transform: translateX(calc(100% + 2px));
 }
 
 /* step 3 */
