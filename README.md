@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/multistep-form-FSKGDiS0eW)
-- Live Site URL: [Add live site URL here](https://multi-step-form-main-kohl.vercel.app)
+- Solution URL: [https://www.frontendmentor.io/solutions/multistep-form-FSKGDiS0eW](https://www.frontendmentor.io/solutions/multistep-form-FSKGDiS0eW)
+- Live Site URL: [https://multi-step-form-main-kohl.vercel.app](https://multi-step-form-main-kohl.vercel.app)
 
 ## My process
 
@@ -46,7 +46,7 @@ Users should be able to:
 
 ### What I learned
 
-I finally saw some use cases for the :has and :is pseudo classes and made made good use of it in cases such as:
+I finally saw some use cases for the :has and :is pseudo classes and made good use of it in cases such as:
 
 ```css
 .personal-info-form > label > input:is(:active, :focus, :focus-visible) {
@@ -65,7 +65,7 @@ I'm still not completely comfortable with writing semantic HTML and improving ac
 
 ### Useful resources
 
-- [Andy Bell's CSS Reset](https://piccalil.li/blog/a-modern-css-reset) - This is so far my best CSS reset. It resets the sizes of headings(h1-6) so I can focus more on writing semantic HTML rather tham trying to use HTML to make the site look better.
+- [Andy Bell's CSS Reset](https://piccalil.li/blog/a-modern-css-reset) - This is so far my best CSS reset. It resets the sizes of headings(h1-6) so I can focus more on writing semantic HTML rather than trying to use HTML to make the site look better.
 
 ## Author
 
