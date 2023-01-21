@@ -65,7 +65,7 @@ I'm still not completely comfortable with writing semantic HTML and improving ac
 
 ### Useful resources
 
-- [Andy Bell's CSS Reset](https://piccalil.li/blog/a-modern-css-reset) - This is so far my best CSS reset. It resets the sizes of headings(h1-6) so I can focus more on writing semantic HTML rather tham trying to use HTML to make the site look better.
+- [Andy Bell's CSS Reset](https://piccalil.li/blog/a-modern-css-reset) - This is so far my best CSS reset. It resets the sizes of headings(h1-6) so I can focus more on writing semantic HTML rather than trying to use HTML to make the site look better.
 
 ## Author
 
