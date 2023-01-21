@@ -46,7 +46,7 @@ Users should be able to:
 
 ### What I learned
 
-I finally saw some use cases for the :has and :is pseudo classes and made made good use of it in cases such as:
+I finally saw some use cases for the :has and :is pseudo classes and made good use of it in cases such as:
 
 ```css
 .personal-info-form > label > input:is(:active, :focus, :focus-visible) {
