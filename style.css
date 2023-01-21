@@ -175,7 +175,7 @@ ul {
   color: var(--clr-marine-blue);
 }
 
-.step__header > h3 {
+.step__header > h2 {
   font-weight: 500;
   color: var(--clr-cool-gray);
 }
